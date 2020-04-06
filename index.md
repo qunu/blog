@@ -3,7 +3,7 @@
 ```
 
 ## Rasberry Pi FM Tranmitter
-![DJ Jognnie Walker](http://github.com/qunu/blog/blob/master/pics/DJ_Johnnie_Walker.jpg)
+![DJ Jognnie Walker](pics/DJ_Johnnie_Walker.jpg)
 
 [Show me](https://help.github.com/categories/github-pages-basics/)
 
