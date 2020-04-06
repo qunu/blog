@@ -5,7 +5,7 @@
 ## Rasberry Pi FM Tranmitter
 ![DJ Jognnie Walker](pics/DJ_Johnnie_Walker.jpg)
 
-[Show me](https://help.github.com/categories/github-pages-basics/)
+[Show me](blogs/pi_fm_transmitter.md)
 
 ## Markdown
 
