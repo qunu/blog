@@ -3,6 +3,7 @@
 ```
 
 ## Markdown
+![Image](https://github.com/qunu/blog/blob/master/pics/DJ_Johnnie_Walker.jpg)
 
 [Markdown](https://help.github.com/categories/github-pages-basics/)
 
